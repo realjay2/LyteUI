@@ -86,7 +86,6 @@ const useInteractiveCard = () => {
         };
     }, []);
 };
-};
 
 
 const useFadeInSection = () => {
