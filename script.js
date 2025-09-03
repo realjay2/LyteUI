@@ -261,7 +261,6 @@ const AuroraBackground = () => {
         </div>
     );
 };
-};
 
 const Modal = ({ children, onClose }) => {
     const [isAnimating, setIsAnimating] = useState(false);
